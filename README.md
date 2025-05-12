@@ -27,4 +27,3 @@ Corrections, refontes, contributions à des projets Open Source. <br>
 
 - PacmanV1, mon premier projet en C++ [➡️ Voir le dépôt](https://github.com/JulienDesdo/PacmanV1)
 
----
