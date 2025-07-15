@@ -20,7 +20,7 @@ Projets académiques autour du **parallélisme**, illustrés en Java et C++ (Ope
 - ➡️ [Java Threads](https://github.com/JulienDesdo/JavaThread_PracticalWork)
 
 ## 🛠️ OpenSourceFixIT
-Corrections, refontes, contributions à des projets Open Source. <br>
+Corrections, refontes, contributions à des projets Open Source via republication, fork ou pull request. <br>
 [➡️ Voir le depôt](https://github.com/JulienDesdo/OpenSource-FixIt.git)
 
 ## 📦 Autres
