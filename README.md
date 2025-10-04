@@ -1,6 +1,6 @@
-
-![Metrics](https://github.com/JulienDesdo/JulienDesdo/blob/main/github-metrics.svg)
-
+<p align="center">
+  <img src="https://github.com/JulienDesdo/JulienDesdo/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 
 # 🦉 0wI 
