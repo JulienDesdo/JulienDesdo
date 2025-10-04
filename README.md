@@ -35,10 +35,16 @@ Corrections, refontes, contributions à des projets Open Source via republicatio
   <a href="README.ja.md">日本語</a>
 </p>
 
-      ___  
-     {o,o}  
-     |)__)  
-     -"--"-  
+<p align="center">
+  <pre>
+          ___  
+         {o,o}  
+         |)__)  
+         -"--"-  
+  </pre>
+  <b>🦉 0wI — "Restless mind, endless machines."</b>
+</p>
+
 
 
 <!-- ![snake gif](https://github.com/JulienDesdo/JulienDesdo/blob/output/snake.svg) -->
