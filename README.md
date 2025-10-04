@@ -1,4 +1,4 @@
-![Metrics](https://github.com/JulienDesdo/JulienDesdo/blob/output/github-metrics.svg?nocache=1)
+![Metrics](https://github.com/JulienDesdo/JulienDesdo/blob/main/github-metrics.svg)
 
 # 🦉 0wI 
 
