@@ -36,14 +36,15 @@ Corrections, refontes, contributions à des projets Open Source via republicatio
 </p>
 
 <p align="center">
-  <pre>
-          ___  
-         {o,o}  
-         |)__)  
-         -"--"-  
-  </pre>
-  <b>🦉 0wI — "Restless mind, endless machines."</b>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;___<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{o,o}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|)__)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-"--"-<br>
+<br>
+<b>🦉 0wI — "Restless mind, endless machines."</b>
 </p>
+
 
 
 
