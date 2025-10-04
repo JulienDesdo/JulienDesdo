@@ -35,16 +35,14 @@ Corrections, refontes, contributions à des projets Open Source via republicatio
   <a href="README.ja.md">日本語</a>
 </p>
 
+
 <p align="center">
-
-<pre style="font-family: monospace; background: none; border: none; box-shadow: none; padding: 0; margin: 0;">
-   ___
-  {o,o}
-  |)__)
-  -"--"-
-</pre>
-
-🦉 <b>Owl</b> — “Restless mind, endless machines.”
+&nbsp;&nbsp;&nbsp;___<br>
+&nbsp;&nbsp;{o,o}<br>
+&nbsp;&nbsp;|)__)<br>
+&nbsp;&nbsp;-"--"-<br>
+<br>
+🦉 <b>Owl</b> — "Restless mind, endless machines."
 </p>
 
 
