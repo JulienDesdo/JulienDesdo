@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/JulienDesdo/JulienDesdo/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github.com/JulienDesdo/JulienDesdo/blob/output/github-metrics.svg?nocache=1" alt="GitHub Metrics" />
 </p>
-
 
 # 🦉 0wI 
 
@@ -32,6 +31,7 @@ Corrections, refontes, contributions à des projets Open Source via republicatio
 
 - PacmanV1, mon premier projet en C++ [➡️ Voir le dépôt](https://github.com/JulienDesdo/PacmanV1)
 
-![snake gif](https://github.com/JulienDesdo/JulienDesdo/blob/output/snake.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulienDesdo&layout=compact&theme=tokyonight)
+
+<!-- ![snake gif](https://github.com/JulienDesdo/JulienDesdo/blob/output/snake.svg) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulienDesdo&layout=compact&theme=tokyonight) -->
