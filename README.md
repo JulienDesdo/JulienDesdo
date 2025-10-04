@@ -29,6 +29,11 @@ Corrections, refontes, contributions à des projets Open Source via republicatio
 
 - PacmanV1, mon premier projet en C++ [➡️ Voir le dépôt](https://github.com/JulienDesdo/PacmanV1)
 
+<p align="right">
+  🌐 Other languages:
+  <a href="README.en.md">English</a> |
+  <a href="README.ja.md">日本語</a>
+</p>
 
 
 <!-- ![snake gif](https://github.com/JulienDesdo/JulienDesdo/blob/output/snake.svg) -->
