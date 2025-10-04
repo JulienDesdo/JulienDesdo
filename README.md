@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/JulienDesdo/JulienDesdo/blob/output/github-metrics.svg?nocache=1" alt="GitHub Metrics" />
-</p>
+![Metrics](https://github.com/JulienDesdo/JulienDesdo/blob/output/github-metrics.svg?nocache=1)
 
 # 🦉 0wI 
 
