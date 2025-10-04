@@ -1,0 +1,49 @@
+name: GitHub Metrics
+on:
+  schedule: [{cron: "0 */12 * * *"}]  # maj toutes les 12h
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Base
+          user: JulienDesdo
+          template: classic
+          base: header, activity, repositories
+          config_timezone: Europe/Paris
+
+          # Langages
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: lines, percentage
+
+          # TryHackMe
+          plugin_tryhackme: yes
+          plugin_tryhackme_token: ${{ secrets.TRYHACKME_TOKEN }}
+          plugin_tryhackme_user: 0wI
+
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact
+
+          # Habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+          # Activity Chart
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Notable repos
+          plugin_notable: yes
+          plugin_notable_repositories: yes
