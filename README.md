@@ -1,3 +1,8 @@
+
+![Metrics](https://github.com/JulienDesdo/JulienDesdo/blob/main/github-metrics.svg)
+
+
+
 # 🦉 0wI 
 
 Bienvenue sur mon espace GitHub. Voici un aperçu structuré de mes projets principaux, classés par thème et usage. Tous ces projets sont activement maintenus et documentés.
