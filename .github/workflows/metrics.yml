@@ -25,7 +25,9 @@ jobs:
 
           plugin_achievements: yes
           plugin_achievements_threshold: C
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: no
+          plugin_achievements_ignored: influencer, automator
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
