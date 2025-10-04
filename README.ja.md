@@ -37,3 +37,9 @@ Java や C++ (OpenMP) を用いた並列処理の学術プロジェクトです�
 PacmanV1 — 初めてのC++プロジェクトです。
 ➡️ [リポジトリを見る](https://github.com/JulienDesdo/PacmanV1)
 
+
+<p align="right">
+  🌐 Other languages:
+  <a href="README.md">French</a> |
+  <a href="README.en.md">English</a>
+</p>
