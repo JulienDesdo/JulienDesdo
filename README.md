@@ -31,7 +31,7 @@ Corrections, refontes, contributions à des projets Open Source via republicatio
 
 
 
-      ___  
+     \   /
      {o,o}  
      |)__)  
      -"--"-  
