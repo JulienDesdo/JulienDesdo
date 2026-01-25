@@ -5,7 +5,7 @@
   <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
 </a>
 <a target="_blank" href="https://tryhackme.com/p/0wI">
-  <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white"/>
 </a>
     <a target="_blank" href="https://www.root-me.org/Jusoof?lang=fr#555dcf7a31f7c057c70220762a243d10">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white"/>
