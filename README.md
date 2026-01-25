@@ -30,9 +30,7 @@ A curated selection of my repositories, grouped by theme (AI/RL, tooling, and a 
 
 - [AI-Projects](https://github.com/JulienDesdo/AI-Projects) — ML/RL projects + theory notes + reports (organized by topic)  
 
-- [kaggle-notebooks](https://github.com/JulienDesdo/kaggle-notebooks) — notebooks & competition experiments (if/when you want it visible)  
-  (link here to a dedicated repo or to `AI-Projects/kaggle`)  
-  https://github.com/JulienDesdo/
+- [kaggle-notebooks](https://github.com/JulienDesdo/kaggle-notebooks) — notebooks 
 
 ### 🧰 Tools / Fixes / Utilities
 - [CLI-Toolbox](https://github.com/JulienDesdo/CLI-Toolbox) — mixed tooling: Python, Bash, PowerShell, R utilities for automation/debug/admin  
