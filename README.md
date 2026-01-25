@@ -28,7 +28,7 @@ A curated selection of my repositories, grouped by theme (AI/RL, tooling, and a 
 - [Cars_DQLN](https://github.com/JulienDesdo/Cars_DQLN) — Deep Q-Learning on a custom 2D racing environment (Gym-like)  
   → sensors (ray casting), DQN training/testing, full theory in `THEORY.md`  
 
-- [AI-Projects](https://github.com/JulienDesdo/AI-Projects) — ML/RL projects + theory notes + reports (organized by topic)  
+- [AI-math-lab](https://github.com/JulienDesdo/AI-math-lab) — AI/ML math fundamentals lab — optimization, SVM, MLP training (Adam), and Monte Carlo experiments (with reports). 
 
 - [kaggle-notebooks](https://github.com/JulienDesdo/kaggle-notebooks) — notebooks 
 
