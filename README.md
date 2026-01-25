@@ -2,25 +2,16 @@
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/<ton-linkedin>/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
 </a>
 <a target="_blank" href="https://tryhackme.com/p/0wI">
   <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
-</p>
-
-
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/<ton-linkedin>/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a target="_blank" href="https://tryhackme.com/p/0wI">
-    <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
-  <a target="_blank" href="https://www.root-me.org/Jusoof?lang=fr#555dcf7a31f7c057c70220762a243d10">
-    <img alt="Root-Me" src="https://img.shields.io/badge/Root--Me-0B0B0B?style=for-the-badge&logoColor=white"/>
+    <a target="_blank" href="https://www.root-me.org/Jusoof?lang=fr#555dcf7a31f7c057c70220762a243d10">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white"/>
   </a>
 </p>
+
 
 # 🦉 0wI
 
