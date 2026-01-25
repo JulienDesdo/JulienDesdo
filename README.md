@@ -4,9 +4,9 @@
   <a target="_blank" href="https://www.linkedin.com/in/<ton-linkedin>/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a target="_blank" href="https://tryhackme.com/p/0wI">
-    <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
+<a target="_blank" href="https://tryhackme.com/p/0wI">
+  <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
 </p>
 
 # 🦉 0wI
