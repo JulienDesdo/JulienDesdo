@@ -1,7 +1,7 @@
 <!-- ![Metrics](https://github.com/JulienDesdo/JulienDesdo/blob/main/github-metrics.svg) --> 
 
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/<ton-linkedin>/">
+<a target="_blank" href="https://www.linkedin.com/in/julien-escot-ba2659363/">
   <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
 </a>
 <a target="_blank" href="https://tryhackme.com/p/0wI">
