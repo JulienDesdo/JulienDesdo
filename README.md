@@ -13,11 +13,11 @@
 </p>
 
 
-# 🦉 0wI
+# 0wI
 
 <p align="center">
   <b>CI/CD Intern @ FORVIA</b> · <b>Engineering student @ SeaTech</b><br/>
-  Curious across systems, security, and ML
+  Systems · CI/CD · Security · ML fundamentals
 </p>
 
 A curated selection of my repositories, grouped by theme (AI/RL, tooling, and a few older projects that still show how I build/debug systems).
