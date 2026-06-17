@@ -16,15 +16,15 @@
 # 0wI
 
 <p align="center">
-  <b>CI/CD Intern @ FORVIA</b> · <b>Engineering student @ SeaTech</b><br/>
-  Systems · CI/CD · Security · ML fundamentals
+  <b>Engineering student @ SeaTech</b> · <b>Former CI/CD intern @ FORVIA</b><br/>
+  Cloud & DevOps · Systems & Infrastructure · AI background & Security exposure
 </p>
 
 A curated selection of my repositories, grouped by theme (AI/RL, tooling, and a few older projects that still show how I build/debug systems).
 
 ## My Projects
 
-### 🤖 AI & Reinforcement Learning
+### AI & Reinforcement Learning
 - [Cars_DQLN](https://github.com/JulienDesdo/Cars_DQLN) — Deep Q-Learning on a custom 2D racing environment (Gym-like)  
   → sensors (ray casting), DQN training/testing, full theory in `THEORY.md`  
 
@@ -32,12 +32,12 @@ A curated selection of my repositories, grouped by theme (AI/RL, tooling, and a 
 
 - [kaggle-notebooks](https://github.com/JulienDesdo/kaggle-notebooks) — notebooks 
 
-### 🧰 Tools / Fixes / Utilities
+### Tools / Fixes / Utilities
 - [CLI-Toolbox](https://github.com/JulienDesdo/CLI-Toolbox) — mixed tooling: Python, Bash, PowerShell, R utilities for automation/debug/admin  
 
 - [PingApp-Java-Fixed](https://github.com/JulienDesdo/PingApp-Java-Fixed) — refactor of a small Java ping GUI (threading + UI cleanup + docs)  
 
-### 📦 Other
+### Other
 - [OpenMP Fractals](https://github.com/JulienDesdo/OpenMP_fractales) — Mandelbrot/Julia implementations with OpenMP variants  
   
 - [PacmanV1 (MFC / C++)](https://github.com/JulienDesdo/PacmanV1) — first bigger C++ project: game loop, collisions, debug tooling  
