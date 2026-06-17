@@ -16,15 +16,15 @@
 # 🦉 0wI
 
 <p align="center">
-  <b>Stagiaire CI/CD @ FORVIA</b> · <b>Étudiant ingénieur @ SeaTech</b><br/>
-  Curieux sur les systèmes, la sécurité et le ML
+  <b>Étudiant ingénieur @ SeaTech</b> · <b>Ancien stagiaire CI/CD @ FORVIA</b><br/>
+  Cloud & DevOps · Systèmes & Infrastructure · Fondamentaux IA · Sécurité
 </p>
 
 Une sélection de mes dépôts, regroupés par thème (IA/RL, tooling, et quelques anciens projets qui montrent encore comment je build/debug des systèmes).
 
 ## Mes projets
 
-### 🤖 IA & Reinforcement Learning
+### IA & Reinforcement Learning
 - [Cars_DQLN](https://github.com/JulienDesdo/Cars_DQLN) — Deep Q-Learning sur un environnement de course 2D custom (type Gym)  
   → capteurs (ray casting), entraînement/test DQN, théorie complète dans `THEORY.md`  
 
@@ -32,12 +32,12 @@ Une sélection de mes dépôts, regroupés par thème (IA/RL, tooling, et quelqu
 
 - [kaggle-notebooks](https://github.com/JulienDesdo/kaggle-notebooks) — notebooks 
 
-### 🧰 Outils / Fixes / Utilitaires
+### Outils / Fixes / Utilitaires
 - [CLI-Toolbox](https://github.com/JulienDesdo/CLI-Toolbox) — outillage varié : utilitaires Python, Bash, PowerShell, R pour automatisation/debug/admin  
 
 - [PingApp-Java-Fixed](https://github.com/JulienDesdo/PingApp-Java-Fixed) — refactor d’une petite GUI Java de ping (threading + UI cleanup + docs)  
 
-### 📦 Autre
+### Autre
 - [OpenMP Fractals](https://github.com/JulienDesdo/OpenMP_fractales) — implémentations Mandelbrot/Julia avec variantes OpenMP  
   
 - [PacmanV1 (MFC / C++)](https://github.com/JulienDesdo/PacmanV1) — premier gros projet C++ : game loop, collisions, outils de debug  
