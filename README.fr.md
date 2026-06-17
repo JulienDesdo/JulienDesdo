@@ -7,7 +7,7 @@
 <a target="_blank" href="https://tryhackme.com/p/0wI">
   <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white"/>
 </a>
-    <a target="_blank" href="">
+    <a target="_blank" href="https://medium.com/@julien.escot64">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white"/>
   </a>
 </p>
