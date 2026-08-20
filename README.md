@@ -33,6 +33,9 @@ A curated selection of my repositories, grouped by theme (AI/RL, tooling, and a 
 - [kaggle-notebooks](https://github.com/JulienDesdo/kaggle-notebooks) — notebooks 
 
 ### Tools / Fixes / Utilities
+
+- [GopherTchi](https://github.com/JulienDesdo/GopherTchi) — macOS menu-bar system monitor written in Go, with a Tamagotchi-style Gopher reacting to CPU, memory and disk usage, plus customizable icon and sprite packs.
+
 - [CLI-Toolbox](https://github.com/JulienDesdo/CLI-Toolbox) — mixed tooling: Python, Bash, PowerShell, R utilities for automation/debug/admin  
 
 - [PingApp-Java-Fixed](https://github.com/JulienDesdo/PingApp-Java-Fixed) — refactor of a small Java ping GUI (threading + UI cleanup + docs)  
