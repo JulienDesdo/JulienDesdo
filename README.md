@@ -24,13 +24,9 @@ A curated selection of my repositories, grouped by theme (AI/RL, tooling, and a 
 
 ## My Projects
 
-### AI & Reinforcement Learning
-- [Cars_DQLN](https://github.com/JulienDesdo/Cars_DQLN) — Deep Q-Learning on a custom 2D racing environment (Gym-like)  
-  → sensors (ray casting), DQN training/testing, full theory in `THEORY.md`  
+### Cloud / DevOps / Backend
 
-- [AI-math-lab](https://github.com/JulienDesdo/AI-math-lab) — AI/ML math fundamentals lab — optimization, SVM, MLP training (Adam), and Monte Carlo experiments (with reports). 
-
-- [kaggle-notebooks](https://github.com/JulienDesdo/kaggle-notebooks) — notebooks 
+- [fileflow](https://github.com/JulienDesdo/fileflow) — (under construction) Cloud-native file-processing platform: Go API/CLI, async workers, PostgreSQL/Redis/MinIO, Kubernetes, observability and security.
 
 ### Tools / Fixes / Utilities
 
@@ -40,12 +36,20 @@ A curated selection of my repositories, grouped by theme (AI/RL, tooling, and a 
 
 - [CLI-Toolbox](https://github.com/JulienDesdo/CLI-Toolbox) — mixed tooling: Python, Bash, PowerShell, R utilities for automation/debug/admin  
 
-- [PingApp-Java-Fixed](https://github.com/JulienDesdo/PingApp-Java-Fixed) — refactor of a small Java ping GUI (threading + UI cleanup + docs)  
+### AI & Reinforcement Learning
+- [Cars_DQLN](https://github.com/JulienDesdo/Cars_DQLN) — Deep Q-Learning on a custom 2D racing environment (Gym-like)  
+  → sensors (ray casting), DQN training/testing, full theory in `THEORY.md`  
+
+- [AI-math-lab](https://github.com/JulienDesdo/AI-math-lab) — AI/ML math fundamentals lab — optimization, SVM, MLP training (Adam), and Monte Carlo experiments (with reports). 
+
+- [kaggle-notebooks](https://github.com/JulienDesdo/kaggle-notebooks) — notebooks 
 
 ### Other
 - [OpenMP Fractals](https://github.com/JulienDesdo/OpenMP_fractales) — Mandelbrot/Julia implementations with OpenMP variants  
   
-- [PacmanV1 (MFC / C++)](https://github.com/JulienDesdo/PacmanV1) — first bigger C++ project: game loop, collisions, debug tooling  
+- [PacmanV1 (MFC / C++)](https://github.com/JulienDesdo/PacmanV1) — first bigger C++ project: game loop, collisions, debug tooling
+
+- [PingApp-Java-Fixed](https://github.com/JulienDesdo/PingApp-Java-Fixed) — refactor of a small Java ping GUI (threading + UI cleanup + docs)
 
 <p align="right">
   {o,o}<br>
