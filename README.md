@@ -28,6 +28,12 @@ A curated selection of my repositories, grouped by theme (AI/RL, tooling, and a 
 
 - [fileflow](https://github.com/JulienDesdo/fileflow) — (under construction) Cloud-native file-processing platform: Go API/CLI, async workers, PostgreSQL/Redis/MinIO, Kubernetes, observability and security.
 
+### GPU / Parallel Computing
+
+- [PMPP_exercises](https://github.com/JulienDesdo/PMPP_exercises) — Hands-on GPU projects based on exercises and ideas from Programming Massively Parallel Processors.
+
+- [OpenMP Fractals](https://github.com/JulienDesdo/OpenMP_fractales) — Mandelbrot/Julia implementations with OpenMP variants.  
+
 ### Tools / Fixes / Utilities
 
 - [GopherTchi](https://github.com/JulienDesdo/GopherTchi) — macOS menu-bar system monitor written in Go, with a Tamagotchi-style Gopher reacting to CPU, memory and disk usage, plus customizable icon and sprite packs.
@@ -45,8 +51,7 @@ A curated selection of my repositories, grouped by theme (AI/RL, tooling, and a 
 - [kaggle-notebooks](https://github.com/JulienDesdo/kaggle-notebooks) — notebooks 
 
 ### Other
-- [OpenMP Fractals](https://github.com/JulienDesdo/OpenMP_fractales) — Mandelbrot/Julia implementations with OpenMP variants  
-  
+
 - [PacmanV1 (MFC / C++)](https://github.com/JulienDesdo/PacmanV1) — first bigger C++ project: game loop, collisions, debug tooling
 
 - [PingApp-Java-Fixed](https://github.com/JulienDesdo/PingApp-Java-Fixed) — refactor of a small Java ping GUI (threading + UI cleanup + docs)
