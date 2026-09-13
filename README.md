@@ -30,7 +30,7 @@ A curated selection of my repositories, grouped by theme (AI/RL, tooling, and a 
 
 ### GPU / Parallel Computing
 
-- [PMPP_exercises](https://github.com/JulienDesdo/PMPP_exercises) — Hands-on GPU projects based on exercises and ideas from Programming Massively Parallel Processors.
+- [PMPP_exercises](https://github.com/JulienDesdo/PMPP_exercices) — Hands-on GPU projects based on exercises and ideas from Programming Massively Parallel Processors.
 
 - [OpenMP Fractals](https://github.com/JulienDesdo/OpenMP_fractales) — Mandelbrot/Julia implementations with OpenMP variants.  
 
